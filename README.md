@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Muhammad Aditiya Fieri Gunawan, I'm a  UI/UX Desiner dan Web Developer. Check <a href="#">ℹ️</a> For More Information System.</p>
+<p>Hi, I'm Muhammad Aditiya Fieri Gunawan, I'm a  UI/UX Desiner dan Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
 [![](https://img.shields.io/badge/-@mafg.24-black?logo=instagram&style=flat-square)](https://instagram.com/@mafg.24)
 [![](https://img.shields.io/badge/-AditiyaFg-1fa2f2?logo=facebook&style=flat-square&logoColor=white)](https://facebook.com/AditiyaFg)
