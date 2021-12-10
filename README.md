@@ -10,7 +10,7 @@
 
 #### I'm a Fresh Graduate Student, Web Developer
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
-- 🌱 I’m currently learning Html, Css, Js, Php and other Laravel Framework. 🤣
+- 🌱 I’m currently learning Laravel, vuejs. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I eat Food. 🍜
 
