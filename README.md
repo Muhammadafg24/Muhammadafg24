@@ -3,9 +3,9 @@
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Muhammad Aditiya Fieri Gunawan, I'm a  UI/UX Desiner dan Web Developer. Check <a href="#">ℹ️</a> For More Information System.</p>
 
-[![](https://img.shields.io/badge/-@mafg.24.rosyidi-black?logo=medium&style=flat-square)](https://instagram.com/@mafg.24)
-[![](https://img.shields.io/badge/-aditfg-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://facebook.com/AditiyaFg)
-[![](https://img.shields.io/badge/-muhammad_aditiya-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/AditFG)  
+[![](https://img.shields.io/badge/-@mafg.24-black?logo=instagram&style=flat-square)](https://instagram.com/@mafg.24)
+[![](https://img.shields.io/badge/-AditiyaFg-1fa2f2?logo=facebook&style=flat-square&logoColor=white)](https://facebook.com/AditiyaFg)
+[![](https://img.shields.io/badge/-AdityaFg-1ba94c?logo=dribbble&style=flat-square&logoColor=white)](https://dribbble.com/AdityaFg)  
 </div>
 
 #### I'm a Fresh Graduate Student, Web Developer
